@@ -2,7 +2,7 @@ using System;
 using MoneyType;
 using NUnit.Framework;
 
-namespace MoneyTypeTests
+namespace Tests
 {
     [TestFixture]
     public class CurrencyTest

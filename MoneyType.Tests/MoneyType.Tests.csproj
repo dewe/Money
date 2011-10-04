@@ -8,8 +8,8 @@
     <ProjectGuid>{1FFE9896-773A-4B2E-87A8-9BF95D6E4692}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MoneyTypeTests</RootNamespace>
-    <AssemblyName>MoneyTypeTests</AssemblyName>
+    <RootNamespace>Tests</RootNamespace>
+    <AssemblyName>MoneyType.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyType", "MoneyType\MoneyType.csproj", "{E7A9221A-57DE-4D33-A139-31737FF9B420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTypeTests", "MoneyTypeTests\MoneyTypeTests.csproj", "{1FFE9896-773A-4B2E-87A8-9BF95D6E4692}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyType.Tests", "MoneyType.Tests\MoneyType.Tests.csproj", "{1FFE9896-773A-4B2E-87A8-9BF95D6E4692}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
